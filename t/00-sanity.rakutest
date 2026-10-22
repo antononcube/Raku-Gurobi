@@ -2,4 +2,5 @@ use v6.d;
 use Gurobi;
 use Test;
 
+use-ok 'Gurobi';
 done-testing;

@@ -1,7 +1,7 @@
 {
     "name": "Gurobi",
     "description": "Interface to the Gurobi numerical optimization solver.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "authors": [
         "Anton Antonov"
     ],
