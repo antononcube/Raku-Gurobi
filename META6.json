@@ -1,0 +1,20 @@
+{
+    "name": "Gurobi",
+    "description": "Interface to the Gurobi numerical optimization solver.",
+    "version": "0.0.1",
+    "authors": [
+        "Anton Antonov"
+    ],
+    "auth": "zef:antononcube",
+    "build-depends": [],
+    "provides": {
+        "Gurobi": "lib/Gurobi.rakumod"
+    },
+    "license": "Artistic-2.0",
+    "tags": [
+        "gurobi",
+        "optimization"
+    ],
+    "api": "0",
+    "source-url": "https://github.com/antononcube/Raku-Gurobi.git"
+}
